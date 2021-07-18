@@ -3,7 +3,7 @@
 # mvn-hello-world-web-apps
 This is for POLL SCM Testing
 Java Hello World web application created using maven-archetype-webapp
-Hello welcome to all leaders of Girls
+Hello welcome to all leaders of Girls and Boys for jenkins integration
 
 ## Blog Post Reference
 https://softwaredev3loper.wordpress.com/2016/02/17/from-zero-to-continuous-delivery/
